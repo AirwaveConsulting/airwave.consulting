@@ -44,7 +44,7 @@ body{
     font-family:'Nunito', sans-serif;
     height:100%;
     background-color: #557ab2;
-    background-image: radial-gradient(ellipse farthest-side at center top,#7694c1 0,#557ab2 100%);
+    background: linear-gradient(to bottom, #7694c1, #557ab2);
     background-attachment:fixed;
 }
 
